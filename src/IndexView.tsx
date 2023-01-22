@@ -5,7 +5,7 @@ interface Institute {
     id: number;
     attributes:{
         institute_name: string;
-        // created_at: any;
+        // created_at: any;\
         // updated_at: any;
         // published_at: any;
     }    
